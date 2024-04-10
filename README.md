@@ -1,4 +1,4 @@
-# Personal-Loan
+# Personal-Loan（R)
 ## Problem Statment
 - This project is to identify factors that influence customers’ acceptance of personal loans and develop a predictive model to target potential loan customers.
 
