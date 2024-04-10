@@ -3,7 +3,7 @@
 - This project is to identify factors that influence customers’ acceptance of personal loans and develop a predictive model to target potential loan customers.
 
 ## Data Cleaning -> EDA -> Model Building
-- This process is done in R
+- This process is done in R https://github.com/jyin16/Personal-Loan/blob/0c1920b6324f2695ccf5b79a33dad1065b162fb6/Personal%20Loan%20PDF.pdf
 
 ## Business Insights
 Based on the work done above and bearing our problem statement in mind there are some key business
